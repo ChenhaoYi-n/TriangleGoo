@@ -1,0 +1,3 @@
+rep "TriangleGo@TriangleGo@cloud"
+  path "/"
+    smartbranch "/main"
